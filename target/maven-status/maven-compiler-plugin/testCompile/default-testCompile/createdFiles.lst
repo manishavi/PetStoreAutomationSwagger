@@ -1,0 +1,16 @@
+api/test/DDTests.class
+api/payloads/User.class
+api/endpoints/Routes.class
+api/payloads/Pet.class
+api/test/UserTestsProperties.class
+api/utilities/XLUtility.class
+api/endpoints/StoreEndPoints.class
+api/endpoints/UserEndPointsProperties.class
+api/test/UserTests.class
+api/utilities/ExtentReportManager.class
+api/utilities/DataProviders.class
+api/test/StoreTests.class
+api/endpoints/PetEndPoints.class
+api/test/PetTests.class
+api/payloads/Store.class
+api/endpoints/UserEndPoints.class
